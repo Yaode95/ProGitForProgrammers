@@ -4,3 +4,4 @@ for nm in name:
     print(nm)
 
 print ("a line add to show staging area")
+print ("異")
