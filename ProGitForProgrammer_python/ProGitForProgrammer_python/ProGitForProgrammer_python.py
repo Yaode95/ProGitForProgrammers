@@ -6,3 +6,5 @@ for nm in name:
 print("this line add to show the staging area")
 
 print("newfeature")
+
+print("建議多打這行")
